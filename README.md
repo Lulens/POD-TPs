@@ -6,4 +6,4 @@ Este repositorio contiene los trabajos prácticos realizados durante la materia 
 3. **Pandas**  
 4. **Validación de Datos**  
 5. **Programación Orientada a Objetos (POO)**  
-6. **Spark**  
+6. **Trabajo Práctico Integrador - Grupal**  
